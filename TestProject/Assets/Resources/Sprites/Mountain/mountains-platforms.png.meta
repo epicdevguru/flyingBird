@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: b2a3a2f262fbba24d87eb7f446dc4c59
+timeCreated: 1504712755
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mountains-platforms_0
+    21300002: mountains-platforms_1
+    21300004: mountains-platforms_2
+    21300006: mountains-platforms_3
+    21300008: mountains-platforms_4
+    21300010: mountains-platforms_5
+    21300012: mountains-platforms_6
+    21300014: mountains-platforms_7
+    21300016: mountains-platforms_8
+    21300018: mountains-platforms_9
+    21300020: mountains-platforms_10
+    21300022: mountains-platforms_11
+    21300024: mountains-platforms_12
+    21300026: mountains-platforms_13
+    21300028: mountains-platforms_14
+    21300030: mountains-platforms_15
+    21300032: mountains-platforms_16
+    21300034: mountains-platforms_17
+    21300036: mountains-platforms_18
+    21300038: mountains-platforms_19
+    21300040: mountains-platforms_20
+    21300042: mountains-platforms_21
+    21300044: mountains-platforms_22
+    21300046: mountains-platforms_23
+    21300048: mountains-platforms_24
+    21300050: mountains-platforms_25
+    21300052: mountains-platforms_26
+    21300054: mountains-platforms_27
+    21300056: mountains-platforms_28
+    21300058: mountains-platforms_29
+    21300060: mountains-platforms_30
+    21300062: mountains-platforms_31
+    21300064: mountains-platforms_32
+    21300066: mountains-platforms_33
+    21300068: mountains-platforms_34
+    21300070: mountains-platforms_35
+    21300072: mountains-platforms_36
+    21300074: mountains-platforms_37
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mountains-platforms_0
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3340
+        width: 1651
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_1
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 3574
+        width: 576
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_2
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 3562
+        width: 891
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_3
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 3000
+        width: 156
+        height: 921
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2920
+        width: 3004
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_5
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 2808
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_6
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 2803
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1598
+        width: 768
+        height: 1173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_8
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2360
+        width: 876
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_9
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 2296
+        width: 1611
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_10
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 2187
+        width: 321
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_11
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 1918
+        width: 705
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_12
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1868
+        width: 628
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_13
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1910
+        width: 1177
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_14
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 1920
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_15
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 1920
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_16
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 1911
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_17
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 1910
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_18
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 1908
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_19
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 1909
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_20
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 1908
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_21
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 1908
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_22
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 1910
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_23
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1866
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_24
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1867
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_25
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 771
+        width: 123
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_26
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1472
+        width: 764
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_27
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 1606
+        width: 928
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 879
+        width: 598
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 798
+        width: 269
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_30
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1302
+        width: 890
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_31
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 1308
+        width: 975
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_32
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 972
+        width: 435
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_33
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 731
+        width: 608
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_34
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 653
+        width: 661
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_35
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 597
+        width: 928
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_36
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 591
+        width: 1050
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mountains-platforms_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 48
+        width: 3530
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
